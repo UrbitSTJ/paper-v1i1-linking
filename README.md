@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# A Solution to Static vs. Dynamic Linking
+
+Ted Blackman ~rovnys-ricfer, Philip C. Monk ~wicdev-wisryt. *Urbit Systems Technical Journal* 1(1), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389604.svg)](https://doi.org/10.5281/zenodo.24389604) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i01/a-solution-to-static-vs-dynamic-linking)
+<!-- /ustj-doi -->
+
 # USTJ Template
 
 The template for USTJ LaTeX submissions.  You should *import* this repo, not *fork* it.
